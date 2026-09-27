@@ -1,0 +1,6 @@
+{
+  "name": "RFC-001 Progressive Capability Delegation Standard",
+  "description": "Interactive specification, execution workbench, and architectural simulator for RFC-001 Progressive Capability Delegation (PCD) in autonomous agent frameworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
