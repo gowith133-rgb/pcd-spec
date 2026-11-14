@@ -9,16 +9,20 @@ project.
 
 ## Status
 
-**Current published specification: v1.1.0.**
-A v1.2.0 revision — a layered attestation model covering ceremony
-enrollment, measurement transparency, and growth by vouching — has
-been assembled and is in review; v1.1.0 remains the current text
-until it is adopted.
+**Current published specification: v1.2.0** (adopted 2026-11-14).
+Archived on Zenodo: [doi:10.5281/zenodo.24226143](https://doi.org/10.5281/zenodo.24226143)
+(all-versions DOI: [10.5281/zenodo.24226142](https://doi.org/10.5281/zenodo.24226142)).
+The full v1.2.0 text is in this repo as
+[`PCD_v1.2.0.md`](PCD_v1.2.0.md). It supersedes v1.1.0: §5.1 is now a
+layered attestation model covering ceremony enrollment, measurement
+transparency, hardware evidence, and growth by vouching, with one
+§6 threat-matrix row updated.
 
 **What works today**
 - The full v1.1.0 specification text, presented as an **interactive
   explorer** (this repo is a Vite/React site): every section of the
-  spec is browsable, with worked examples.
+  spec is browsable, with worked examples. (The explorer still
+  presents v1.1.0; a v1.2.0 refresh of the site data is pending.)
 - Hands-on **labs** that demonstrate the core mechanisms in the
   browser — capability grants, attenuation, attestation chains —
   as client-side teaching demos.

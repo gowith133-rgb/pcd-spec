@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it as below."
+title: "Progressive Capability Delegation: A Capability-Based Security and Non-Destructive Fault Isolation Standard for Autonomous Agent Frameworks"
+version: 1.2.0
+date-released: 2026-11-14
+license: CC-BY-4.0
+doi: 10.5281/zenodo.24226143
+authors:
+  - family-names: Krzan
+    given-names: Mark
+    affiliation: "Metamatrix Working Group"
+url: "https://github.com/gowith133-rgb/pcd-spec"
+repository-code: "https://github.com/gowith133-rgb/pcd-spec"
